@@ -21,9 +21,13 @@ An example use is as follows:
 ~ python Lifting_CLI.py show
 
 This will display all PRs that have been added up to this point. 
+
 Eg.
+
 BENCH: 120kg
+
 SQUAT: 160kg
+
 DEADLIFT: 180kg
 
 
