@@ -1,4 +1,4 @@
-#LIFTING PR TRACKER
+# LIFTING PR TRACKER
 CLI that can track and display PRs. All units are currently in kilograms. 
 
 
